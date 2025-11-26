@@ -1,3 +1,5 @@
+# Introducción a la física computacional
+
 El principal objetivo del curso es la introducción al uso de los ordenadores y la simulación computacional como herramientas básicas de la física.
 
 Utilizaremos Python debido a su flexibilidad. Usaremos Spyder y Jupyter, ambos están disponibles en el entorno Anaconda que podéis descargar aquí:
